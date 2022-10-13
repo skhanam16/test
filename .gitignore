@@ -1,0 +1,4 @@
+*.env
+*txt
+!main.txt
+node_modules/
